@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "/Users/carl-johan/GitStore/Development/k3s-nsdev-sidious"
+        },
+        {
+            "path": "/Users/carl-johan/GitStore/Development/k3s-nsdev-maul"
+
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "*.json5": "jsonc",
+            "**/provision/ansible/**/*.yml": "ansible",
+            "**/provision/ansible/**/*.sops.yml": "yaml",
+            "**/provision/ansible/**/inventory/**/*.yml": "yaml",
+            "**/provision/terraform/**/*.tf": "terraform"
+        },
+        "yaml.schemas": {
+            "Kubernetes": "cluster/*.yaml"
+        }
+    }
+}
