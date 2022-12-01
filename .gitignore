@@ -18,3 +18,4 @@ xanmanning.k3s*
 terraform.tfstate*
 megalinter-reports
 k3s
+provision/kubeconfig.vscode-k8s-tools-backup
